@@ -1,22 +1,11 @@
-# I'm trying this for the 3rd time
 
-I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free.
-
-# Free high quality TV Logos for dark backgrounds
-
-Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
 
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
 
-## 💛 Support me to continue this project
 
-If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
 
 [<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
-## 📝 Logo request
-
-[CLICK HERE](https://forms.gle/BVjAKFXwSCuWhpYi7) to go to a form request page where you can request a logo.
 
 ## 🌍 Countries
 
@@ -95,15 +84,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just right-click on the logo and select copy image address and use that URL for the logo.
 
-## I will regularly add new channel logos, you can also message me and request logos
-
-If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
-
-[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
-
-* Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
-
-* The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
 
 * All the logos come in PNG format and work perfectly on dark backgrounds.
 
@@ -149,4 +129,4 @@ A horizontal version of a logo will have hz in its name if there's a regular ver
 
 This project is possible thanks to Creative Commons ShareAlike licenses, CC BY-SA and CC BY-NC-SA. By using the logos you have to agree with the following: The logo you are about to use is the intellectual property of the copyright, trademark holder and is offered to you as a convenience for lawful use.
 
-For more info on the project or information please PM me or send me email at tapio.sinnertwin(at)gmail.com I will try my best to reply within 24hr. Thank you.
+
